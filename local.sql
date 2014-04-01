@@ -1,0 +1,1 @@
+select localsql from local;
